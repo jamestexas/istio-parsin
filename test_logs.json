@@ -1,0 +1,4 @@
+[
+    {"level": "info", "message": "Server started", "timestamp": "2024-11-25T12:34:56Z"},
+    {"level": "error", "message": "Connection failed", "timestamp": "2024-11-25T12:35:00Z"}
+]
