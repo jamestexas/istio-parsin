@@ -8,6 +8,9 @@
 *.so
 *.dylib
 
+# Ignore the executable for the log-viewer that gets made, in any directory
+**/log-viewer
+
 # Test binary, built with `go test -c`
 *.test
 
